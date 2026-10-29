@@ -1,6 +1,6 @@
 # Group 3 Project Gamedev 2027
 
-[Doc Link](https://docs.google.com/document/d/17yFRsZgRBXhvUjVd8USPGGKEjzu-hlRYTeWd7XKg5VM/edit?tab=t.0))
+[Doc Link](https://docs.google.com/document/d/17yFRsZgRBXhvUjVd8USPGGKEjzu-hlRYTeWd7XKg5VM/edit?tab=t.0)
 Genre:
 Roguelite Fastpace Hack&Slash
 

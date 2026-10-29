@@ -1,6 +1,5 @@
 # Group 3 Project Gamedev 2027
 
-![title](URL)
 Genre:
 Roguelite Fastpace Hack&Slash
 
@@ -19,4 +18,3 @@ Sam:video game designer, and Programmer
 Player goal:
 Beat specific levels to advance with boss at the end of each level 
 
-[alt tag](URL)

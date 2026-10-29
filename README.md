@@ -4,6 +4,9 @@
 Genre:
 Roguelite Fastpace Hack&Slash
 
+Game title:
+Dimensional Descension
+
 Theme: 
 Environmentwise: Divergent Dimensional
 Characterwise: Suit/Doomguy
@@ -20,5 +23,5 @@ Julian: 2D Artist
 Sam:video game designer, and Programmer
 
 Player goal:
-Beat specific levels to advance with boss at the end of each level 
+Beat specific levels to advance with bosses at the end of each level 
 

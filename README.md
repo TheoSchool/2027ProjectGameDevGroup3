@@ -11,6 +11,9 @@ Characterwise: Suit/Doomguy
 Dimension:
 2D Top-Down
 
+Player goal and Gameplay:
+Beat specific levels to advance with the boss at the end of each level. Each level has a unique yet similar challenge to complete. The 2D dimension changes varying on level.
+
 Roles:
 Theo: Concept Artist, and Storyboard
 Julian: 2D Artist

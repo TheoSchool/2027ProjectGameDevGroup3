@@ -28,3 +28,5 @@ Beat specific levels to advance with bosses at the end of each level .
 Bosses: currently there are five.
 
 Classes: currently we have three.
+
+![RoughDraft](https://github.com/TheoSchool/2027ProjectGameDevGroup3/blob/main/Images/GameplayRoughDraft.png)

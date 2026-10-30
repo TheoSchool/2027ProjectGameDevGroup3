@@ -29,4 +29,5 @@ Bosses: currently there are five.
 
 Classes: currently we have three.
 
+Game rough draft:
 ![RoughDraft](https://github.com/TheoSchool/2027ProjectGameDevGroup3/blob/main/Images/GameplayRoughDraft.png)

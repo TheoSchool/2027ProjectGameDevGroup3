@@ -20,7 +20,7 @@ Beat specific levels to advance with the boss at the end of each level. Each lev
 Roles:
 Theo: Concept Artist, and Storyboard.
 Julian: 2D Artist
-Sam:video game designer, and Programmer.
+Sam: video game designer, and Programmer.
 
 Player goal:
 Beat specific levels to advance with bosses at the end of each level .

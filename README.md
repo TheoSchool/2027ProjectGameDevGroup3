@@ -25,3 +25,6 @@ Sam: video game designer, and Programmer.
 Player goal:
 Beat specific levels to advance with bosses at the end of each level .
 
+Bosses: currently there are five.
+
+Classes: currently we have three.

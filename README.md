@@ -1,33 +1,35 @@
 # Group 3 Project Gamedev 2027
 
 [Doc Link](https://docs.google.com/document/d/17yFRsZgRBXhvUjVd8USPGGKEjzu-hlRYTeWd7XKg5VM/edit?tab=t.0)
-Genre:
+##Genre:
 Roguelite Fastpace Hack&Slash.
 
-Game title:
+##Game title:
 Dimensional Descension.
 
-Theme: 
+##Theme: 
 Environmentwise: Divergent Dimensional.
 Characterwise: Suit/Doomguy.
 
-Dimension:
+##Dimension:
 2D Top-Down.
 
-Player goal and Gameplay:
+##Player goal and Gameplay:
 Beat specific levels to advance with the boss at the end of each level. Each level has a unique yet similar challenge to complete. The 2D dimension changes varying on level.
 
-Roles:
+##Roles:
 Theo: Concept Artist, and Storyboard.
 Julian: 2D Artist
 Sam: video game designer, and Programmer.
 
-Player goal:
+##Player goal:
 Beat specific levels to advance with bosses at the end of each level .
 
-Bosses: currently there are five.
+##Bosses:
+currently there are five.
 
-Classes: currently we have three.
+##Classes:
+currently we have three.
 
-Game rough draft:
+##Game rough draft:
 ![RoughDraft](https://github.com/TheoSchool/2027ProjectGameDevGroup3/blob/main/Images/GameplayRoughDraft.png)

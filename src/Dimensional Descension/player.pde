@@ -1,4 +1,4 @@
-// Sam Sharma 
+// GameDev Project Group 3 by Sam Sharma, Theo Heisler, and Julian Bryson // 
 
 class player {
  // Member Variable  

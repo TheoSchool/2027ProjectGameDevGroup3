@@ -2,7 +2,7 @@
 
 class Player {
  // Member Variable  
-Int x,y,w,h;
+int x,y,w,h;
 PImage pI;
 float health;
 

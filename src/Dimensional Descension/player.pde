@@ -7,7 +7,7 @@ PImage pI;
 float health;
 
 // Constuctor
-player() {
+Player() {
 x=50;
 y=50;
 w=50;

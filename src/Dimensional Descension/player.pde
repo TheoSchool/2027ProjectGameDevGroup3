@@ -16,7 +16,7 @@ pI=loadImage("");
 health=100; 
 }
 
-// Member mMthods
+// Member Methods
 void displayed() {
 fill(22,200,9);
 ellipse(x,y,w,h); 

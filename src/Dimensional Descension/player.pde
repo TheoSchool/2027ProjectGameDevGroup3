@@ -12,7 +12,7 @@ x=50;
 y=50;
 w=50;
 h=50;
-pI=loadImage("");
+pI=loadImage("placeholder.png");
 health=100; 
 }
 

@@ -16,9 +16,8 @@ class Enemy {
     health = 100;
     }
 
-  // Draw the enemy to the screen
   void display() {
-    fill(220, 40, 40); // Red shape placeholder
+    fill(220, 40, 40); 
     ellipse(x, y, w, h);
     
     // If using an image:
@@ -27,18 +26,15 @@ class Enemy {
     // }
   }
 
-  // Update enemy position (moves down the screen and resets)
   void move() {
     y += speed;
 
-    // Wrap around to the top when reaching the bottom edge
     if (y > height + h) {
       y = -h;
       x = random(width);
     }
   }
 
-  // Returns true if this enemy touches the player
   boolean checkCollision(Player p) {
     float distance = dist(x, y, p.x, p.y);
     return distance < (w / 2.0 + p.w / 2.0);

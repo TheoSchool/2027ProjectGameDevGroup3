@@ -14,8 +14,7 @@ class Enemy {
     h = 40;
     speed = 3;
     health = 100;
-    
-  }
+    }
 
   // Draw the enemy to the screen
   void display() {

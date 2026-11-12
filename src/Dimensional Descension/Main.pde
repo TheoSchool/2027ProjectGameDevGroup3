@@ -4,6 +4,9 @@ import processing.sound.*;
 import gifAnimation.*;
 PImage King;
 
-void setup() {}
-
-void draw() {}
+void setup() {
+size(1000,750);
+}
+void draw() {
+background(#000000);
+}

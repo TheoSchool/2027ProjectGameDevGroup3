@@ -2,11 +2,25 @@
 
 import processing.sound.*;
 import gifAnimation.*;
+Player player01;
+Enemy enemy01;
+ArrayList<Player> player = new ArrayList<Player>();
 PImage King;
 
 void setup() {
 size(1000,750);
+imageMode(CENTER);
+player.add(new Player());
 }
 void draw() {
 background(#000000);
+for (Player p : player) {
+p.move(mouseX,mouseY);
+p.displayed();
 }
+}
+void mousePressed() {
+for (Player p : player) {
+p.move(mouseX,mouseY);
+p.displayed();
+ }

@@ -24,3 +24,4 @@ for (Player p : player) {
 p.move(mouseX,mouseY);
 p.displayed();
  }
+}

@@ -14,7 +14,7 @@ y=50;
 w=50;
 h=50;
 pI=loadImage("placeholder.png");
-speed=5
+speed=5;
 health=100; 
 }
 

@@ -1,5 +1,3 @@
-// GameDev Project Group 3 by Sam Sharma, Theo Heisler, and Julian Bryson // 
-
 class Player {
  // Member Variable  
 int w,h;
@@ -32,5 +30,4 @@ float angle = atan2(targetX-x, TargetY-y);
 void move() {
 x+=speed;
 }
-
 }

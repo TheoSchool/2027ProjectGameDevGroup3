@@ -35,7 +35,7 @@ class Enemy {
     }
   }
 
-  boolean checkCollision(player p) {
+  boolean checkCollision(Player p) {
     float distance = dist(x, y, p.x, p.y);
     return distance < (w / 2.0 + p.w / 2.0);
   }

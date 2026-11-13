@@ -13,15 +13,19 @@ imageMode(CENTER);
 player.add(new Player());
 }
 void draw() {
-background(#000000);
+background(#50,80,77);
 for (Player p : player) {
-p.move(mouseX,mouseY);
+p.move();
 p.displayed();
 }
 }
-void mousePressed() {
+void keyPressed() {
 for (Player p : player) {
-p.move(mouseX,mouseY);
+ if (key == 'w' || key == 'W' || keyCode == UP)    p.moveUp = true;
+ if (key == 's' || key == 'S' || keyCode == DOWN)  p.moveDown = true;
+ if (key == 'a' || key == 'A' || keyCode == LEFT)  p.moveLeft = true;
+ if (key == 'd' || key == 'D' || keyCode == RIGHT) p.moveRight = true;
+p.move();
 p.displayed();
  }
 }

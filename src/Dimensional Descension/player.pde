@@ -23,11 +23,12 @@ fill(22,200,9);
 //ellipse(x,y,w,h); 
 }
 
-void move(float targetX,float TargetY) {
-float angle = atan2(targetX-x, TargetY-y);
+void move() {
+if (moveUp) y-=speed;
+if (moveDown) y+=speed;
+if (moveLeft) x-=speed;
+if (moveRight) x+=speed;
 }
 
-void move() {
-x+=speed;
-}
+
 }

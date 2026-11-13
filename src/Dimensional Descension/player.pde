@@ -2,9 +2,10 @@
 
 class Player {
  // Member Variable  
-int x,y,w,h;
+int w,h;
+float x,y;
 PImage pI;
-float health;
+float health,speed;
 
 // Constuctor
 Player() {
@@ -13,6 +14,7 @@ y=50;
 w=50;
 h=50;
 pI=loadImage("placeholder.png");
+speed=5
 health=100; 
 }
 
@@ -20,6 +22,14 @@ health=100;
 void displayed() {
 fill(22,200,9);
 ellipse(x,y,w,h); 
+}
+
+void move(float targetX,float TargetY) {
+float angle = atan2(targetX-x, TargetY-y);
+}
+
+void move() {
+x+=speed;
 }
 
 }

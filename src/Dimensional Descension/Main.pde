@@ -13,7 +13,7 @@ imageMode(CENTER);
 player.add(new Player());
 }
 void draw() {
-background(#50,80,77);
+background(50,80,77);
 for (Player p : player) {
 p.move();
 p.displayed();
